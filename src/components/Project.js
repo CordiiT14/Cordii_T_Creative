@@ -18,7 +18,6 @@ const Project = ({projects}) => {
             <ul>
                 {projectNodes}
             </ul>
-            <p>This section is in development. Thank you for your patience.</p>
         </section>
     )
 

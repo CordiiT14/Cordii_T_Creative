@@ -1,26 +1,21 @@
 import React from 'react';
-import styled from 'styled-components';
 
 const Navbar = () => {
 
-    const Navbar = styled.div`
-        color: white;
-    `
-
-    const NavItems = styled.ul`
-        list-style: none;
-        display: flex;
-    `
 
     return(
-        <Navbar>
-            <NavItems>
+        <section id='navbar'>
+            <div className="navigation">
                 <li>About</li>
                 <li>Projects</li>
                 <li>Testemonials</li>
                 <li>Contact</li>
-            </NavItems>
-        </Navbar>
+            </div>
+            <div className='TEMP'>
+            <h2>!!This Website is under Construction!!</h2>
+
+            </div>
+        </section>
     )
 
 };

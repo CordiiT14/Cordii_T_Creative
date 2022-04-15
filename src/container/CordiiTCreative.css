@@ -1,4 +1,28 @@
-/* Header styling */
+/* Navbar styling */
+.TEMP {
+    text-align: center;
+    color: red;
+}
+
+#navbar {
+    color: white;
+    padding: 10px;
+}
+
+.navigation {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.navigation li{
+    list-style: none;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.navigation li:hoover {
+    background-color: #f7ccb4;
+}
 
 /* About Section Styling */
 
@@ -93,6 +117,59 @@
 
 
 /* Contact Section Styling */
+
+#contact-container {
+    display: flex;
+    justify-content: center;
+    min-height: 400px;
+    color: white;
+
+}
+
+#contact-container h3 {
+    text-align: center;
+}
+
+.contact-form {
+    min-width: 50%;
+}
+
+form{
+    display:flex;
+    flex-direction: column;
+    
+
+}
+
+label {
+    padding: 10px;
+}
+
+input {
+    width: 95%;
+    padding: 10px;
+    margin: 5px;
+    border:none;
+    border-radius: 5px;
+
+}
+
+input[type=submit] {
+    background-color: #f7ccb4;
+    border: none;
+    border-radius: 5px;
+    font-family: 'Rubik', sans-serif;
+}
+
+textarea{
+    width: 95%;
+    padding: 10px;
+    margin: 5px;
+    resize: vertical;
+    border:none;
+    border-radius: 5px;
+    font-family: 'Rubik', sans-serif;
+}
 
 /* Footer Section Styling */
 
