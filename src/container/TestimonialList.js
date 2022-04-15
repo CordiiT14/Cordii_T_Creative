@@ -16,11 +16,11 @@ const TestimonialList = () => {
 
     return(
         <Testemonials>
-                    <quote>
+                <p>
                 "Cordii is fast, efficient and has an excellent eye for image and design. We've always found her easy to work with and couldn't recommend her enough. 
                 For everything from show photography to print design she delivers in a very rapid turnaround and works really closely with us to get the perfect results." 
                 <br></br>- Laila Noble (Artistic Director & Co-Founder of ClartyBurd Theatre)
-            </quote>
+                </p>
         </Testemonials>
     )
 

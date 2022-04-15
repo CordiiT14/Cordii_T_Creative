@@ -4,6 +4,7 @@ import About from '../components/About';
 import ProjectList from './ProjectList';
 import TestimonialList from './TestimonialList';
 import Contact from '../components/Contact';
+import Footer from '../components/Footer';
 
 const CordiiTCreative = () => {
 
@@ -14,6 +15,7 @@ const CordiiTCreative = () => {
             <ProjectList />
             <TestimonialList />
             <Contact />
+            <Footer/>
         </div>
     )
 }
