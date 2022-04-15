@@ -1,34 +1,25 @@
 import React from 'react';
-import styled from "styled-components";
 
 const Project = ({projects}) => {
 
     const projectNodes = projects.map((project, index) => {
         return(
-            <li key={index}>
-                <h2>{project.title}</h2>
-                <img src={project.img} width="200px"></img>
+            <li id="project" key={index}>
+                <h3>{project.title}</h3>
+                <img src={project.img}></img>
                 <p>{project.description}</p>
             </li>
         )
     });
 
-    const ProjectContainer = styled.div`
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: space-evenly;
-        align-content: center;
-        list-style: none;
-        color: white;
-        min-height: 500px;
-    `
-
     return(
-        <ProjectContainer>
-
+        <section  id="project-container" >
+        <h2>Projects</h2>
+            <ul>
                 {projectNodes}
-
-        </ProjectContainer>
+            </ul>
+            <p>This section is in development. Thank you for your patience.</p>
+        </section>
     )
 
 

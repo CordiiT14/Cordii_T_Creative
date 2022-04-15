@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 import logo from '../images/CCT_logo1.png';
-import headshot from '../images/Headshot.jpg';
+import headshot from '../images/Headshot.png';
 
 
 const About = () => {
@@ -16,8 +16,9 @@ const About = () => {
             <section className='about-section'>
                 <img id="headshot" src={headshot}></img>
                 <section>
-                <p>I have been a freelance photographer for 10 years and a digital illustrator since 2020.</p>
-                <p>My creative side is matched by a proclivity for problem solving and logical thinking. This has brought me to develop my newest skillset as a software developer.</p>
+                <p>I have been a freelance photographer since 2012 and a digital illustrator since 2020.</p>
+                <p>My creative side is matched by a proclivity for problem solving and logical thinking. Which has brought me to develop and build my skillset as a software developer.</p>
+                <p>Since February 2022 I have been attending the CodeClan Professional Software Development course.</p>
                 </section>
             </section>
         </>
