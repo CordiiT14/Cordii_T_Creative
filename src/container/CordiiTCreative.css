@@ -1,0 +1,52 @@
+/* Header styling */
+
+/* About Section Styling */
+
+.about-header {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    color: white;
+    height: 90vh;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.about-header > img {
+    max-width: 100%;
+    height: auto;
+}
+
+.about-section {
+    background-color: #b2baa7;
+    color: white;
+    display: flex;
+    align-items: center;
+    padding-left: 10%;
+    padding-right: 10%;
+    min-height: 500px;
+}
+
+.about-section p{
+    font-size: 20px;
+}
+
+#headshot {
+    height: 500px;
+}
+
+
+/* ProjectList styling */
+
+/* Contact Section Styling */
+
+/* Footer Section Styling */
+
+footer {
+    background: #b2baa7;
+    color: #436053;
+    padding: 1px;
+    display: flex;
+    justify-content: center;
+}

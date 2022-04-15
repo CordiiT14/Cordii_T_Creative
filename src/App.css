@@ -1,3 +1,5 @@
+/* Universal Styling */
+
 li {
     padding: 10px;
 }
@@ -7,10 +9,6 @@ img {
 }
 
 
-footer {
-    background: #b2baa7;
-    color: #436053;
-    padding: 1px;
-    display: flex;
-    justify-content: center;
-}
+
+
+

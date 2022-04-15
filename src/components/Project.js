@@ -15,9 +15,12 @@ const Project = ({projects}) => {
 
     const ProjectContainer = styled.div`
         display: flex;
+        flex-wrap: wrap;
         justify-content: space-evenly;
+        align-content: center;
         list-style: none;
         color: white;
+        min-height: 500px;
     `
 
     return(

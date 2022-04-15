@@ -10,12 +10,12 @@ const CordiiTCreative = () => {
 
     return(
         <div>
-            <Navbar/>
-            <About/>
+            <Navbar />
+            <About />
             <ProjectList />
             <TestimonialList />
             <Contact />
-            <Footer/>
+            <Footer />
         </div>
     )
 }
