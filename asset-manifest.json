@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Cordii_T_Creative/static/css/main.fef6f8ed.css",
+    "main.js": "/Cordii_T_Creative/static/js/main.2f2225dd.js",
+    "static/js/787.89063b23.chunk.js": "/Cordii_T_Creative/static/js/787.89063b23.chunk.js",
+    "static/media/Headshot.jpg": "/Cordii_T_Creative/static/media/Headshot.ac301034e526371f2fb1.jpg",
+    "static/media/project_holder.png": "/Cordii_T_Creative/static/media/project_holder.ae66559dbc9495d68b6e.png",
+    "static/media/CCT_logo1.png": "/Cordii_T_Creative/static/media/CCT_logo1.eb2985c94ef49791d9a4.png",
+    "index.html": "/Cordii_T_Creative/index.html",
+    "main.fef6f8ed.css.map": "/Cordii_T_Creative/static/css/main.fef6f8ed.css.map",
+    "main.2f2225dd.js.map": "/Cordii_T_Creative/static/js/main.2f2225dd.js.map",
+    "787.89063b23.chunk.js.map": "/Cordii_T_Creative/static/js/787.89063b23.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fef6f8ed.css",
+    "static/js/main.2f2225dd.js"
+  ]
+}
