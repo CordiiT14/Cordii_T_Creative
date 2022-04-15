@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Cordii_T_Creative/static/css/main.6f17612c.css",
-    "main.js": "/Cordii_T_Creative/static/js/main.ac886625.js",
+    "main.css": "/Cordii_T_Creative/static/css/main.005d6038.css",
+    "main.js": "/Cordii_T_Creative/static/js/main.86c07019.js",
     "static/js/787.89063b23.chunk.js": "/Cordii_T_Creative/static/js/787.89063b23.chunk.js",
+    "static/media/Headshot.png": "/Cordii_T_Creative/static/media/Headshot.2a8951e9f3031f0dd770.png",
     "static/media/project_holder.png": "/Cordii_T_Creative/static/media/project_holder.ae66559dbc9495d68b6e.png",
     "static/media/CCT_logo1.png": "/Cordii_T_Creative/static/media/CCT_logo1.eb2985c94ef49791d9a4.png",
-    "static/media/Headshot.jpg": "/Cordii_T_Creative/static/media/Headshot.b56e999d0208ee3d4797.jpg",
     "static/media/icon.png": "/Cordii_T_Creative/static/media/icon.7c6b355a0bb113efd89f.png",
     "index.html": "/Cordii_T_Creative/index.html",
-    "main.6f17612c.css.map": "/Cordii_T_Creative/static/css/main.6f17612c.css.map",
-    "main.ac886625.js.map": "/Cordii_T_Creative/static/js/main.ac886625.js.map",
+    "main.005d6038.css.map": "/Cordii_T_Creative/static/css/main.005d6038.css.map",
+    "main.86c07019.js.map": "/Cordii_T_Creative/static/js/main.86c07019.js.map",
     "787.89063b23.chunk.js.map": "/Cordii_T_Creative/static/js/787.89063b23.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6f17612c.css",
-    "static/js/main.ac886625.js"
+    "static/css/main.005d6038.css",
+    "static/js/main.86c07019.js"
   ]
 }
