@@ -7,6 +7,7 @@ const Contact = () => {
     const [name, setName] = useState('');
     const [email, setEmail] = useState('');
     const [message, setMessage] = useState('');
+    const [submit, setSubmit] = useState('Send')
 
     const form = useRef();
 
@@ -17,10 +18,10 @@ const Contact = () => {
         setName('');
         setEmail('');
         setMessage('');
-    }
+        setSubmit('Message Sent');
+    };
 
     const sendEmail = () => {
-        console.log(name, email, message);
         emailjs.sendForm('default_service', 'template_vmxya9h', form.current, 'cvJY15YykIx2Yox-i')
         .then((result) => {
             console.log('Success!', result.text);
@@ -56,7 +57,7 @@ const Contact = () => {
                         <input onChange={handleEmail} id="email" name="reply_to" type="email" value={email}placeholder="Email..." required ></input>
                     <label>Message: </label>
                         <textarea onChange={handleText} id="message" name="message" value={message}></textarea>
-                    <input type="submit" value="Send"></input>
+                    <input type="submit" value={submit}></input>
                 </form>
             </div>
         </section>
