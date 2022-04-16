@@ -17,8 +17,16 @@
 }
 
 @media screen and (max-width:680px) {
-    
+
     .about-section {
+        flex-direction: column;
+    }
+
+    #headshot {
+        max-height: 380px;
+    }
+
+    #testemonials-container {
         flex-direction: column;
     }
 
