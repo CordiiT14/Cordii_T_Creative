@@ -10,12 +10,10 @@ import burgermenu from '../images/burgerclosed.png'
 import closemenu from '../images/closemenu.png'
 import scrollup from '../images/backtotop.png';
 
+
+
 const CordiiTCreative = () => {
     const [isOpen, setIsOpen] = useState('false');
-
-    const toTheTop = () => {
-
-    }
 
     return(
         <div>
