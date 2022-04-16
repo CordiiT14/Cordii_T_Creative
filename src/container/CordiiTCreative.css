@@ -1,13 +1,25 @@
+
+
 /* Navbar styling */
-.TEMP {
-    text-align: center;
-    color: red;
+
+#burgerIcon {
+    width: 40px;
+    padding: 15px;
+    
+}
+
+#closeMenu{
+    width: 40px;
+    padding: 15px;
 }
 
 #navbar {
     color: white;
     padding: 10px;
+    position: fixed;
+    display: flex;
 }
+
 
 .navigation {
     display: flex;
@@ -20,9 +32,7 @@
     font-size: 20px;
 }
 
-.navigation li:hoover {
-    background-color: #f7ccb4;
-}
+
 
 /* About Section Styling */
 
