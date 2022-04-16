@@ -61,9 +61,9 @@ const Contact = () => {
                 </form>
             </div>
             <div id="social-media">
-                <a href="https://www.linkedin.com/in/cordelia-toennies-johnstone-2a1148102">LinkedIn</a>
-                <a href="https://github.com/CordiiT14">Github</a>
-                <a href="https://www.instagram.com/cordii.t_creative/">Instagram</a>
+                <a href="https://www.linkedin.com/in/cordelia-toennies-johnstone-2a1148102" target="_blank">LinkedIn</a>
+                <a href="https://github.com/CordiiT14" target="_blank">Github</a>
+                <a href="https://www.instagram.com/cordii.t_creative/" target="_blank">Instagram</a>
             </div>
         </section>
     )

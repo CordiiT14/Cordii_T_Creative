@@ -30,4 +30,8 @@
         flex-direction: column;
     }
 
+    .contact-form {
+        min-width: 80%;
+    }
+
 }
