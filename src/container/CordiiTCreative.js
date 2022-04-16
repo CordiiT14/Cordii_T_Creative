@@ -14,7 +14,7 @@ const CordiiTCreative = () => {
             <About />
             <ProjectList />
             <TestimonialList />
-            <Contact />
+            <Contact/>
             <Footer />
         </div>
     )
