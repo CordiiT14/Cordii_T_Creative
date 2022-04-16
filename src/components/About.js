@@ -9,7 +9,7 @@ const About = () => {
 
     return(
         <>
-            <div className='about-header'>
+            <div id='about-header'>
                 <img  src={logo} alt="Cordii T Creative Logo"></img>
                 <h2> Hi, my name is Cordelia. I am a junior full-stack developer, digital illustrator and photographer.</h2>
             </div>

@@ -3,6 +3,7 @@ import {Link} from 'react-scroll';
 
 
 
+
 const Navbar = ({isOpen, setIsOpen }) => {
 
     const handleClick = () => {

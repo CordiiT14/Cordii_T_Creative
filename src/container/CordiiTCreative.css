@@ -1,4 +1,15 @@
+#scrollUp {
+    width: 60px;
+    position: fixed;
+    padding: 15px;
+    bottom: 0;
+    right: 0;
+    opacity: 0.5;
+}
 
+#scrollUp:hover {
+    opacity: 1;
+}
 
 /* Navbar styling */
 
@@ -36,7 +47,7 @@
 
 /* About Section Styling */
 
-.about-header {
+#about-header {
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
@@ -48,7 +59,7 @@
     text-align: center;
 }
 
-.about-header > img {
+#about-header > img {
     max-width: 100%;
     height: auto;
 }
