@@ -39,12 +39,16 @@
 
 .navigation li{
     list-style: none;
-    padding: 10px;
+    padding: 5px;
     font-size: 20px;
 }
 .navigation > li:hover{
     background-color: #f7ccb4;
     color: #436053;
+}
+
+.navigation a{
+    padding: 10px;
 }
 
 
@@ -111,6 +115,10 @@
     margin: 5px;
 }
 
+#project a{
+    color: #f7ccb4;
+}
+
 #project img{
     width: 75%;
 }
@@ -142,11 +150,11 @@
 /* Contact Section Styling */
 
 #contact-container {
-    display: flex;
-    justify-content: center;
-    min-height: 400px;
+    min-height: 550px;
     color: white;
-
+    display: flex;
+    flex-direction: column;
+    align-content: space-between;
 }
 
 #contact-container h3 {
@@ -155,12 +163,12 @@
 
 .contact-form {
     min-width: 50%;
+    margin: auto;
 }
 
 form{
     display:flex;
     flex-direction: column;
-    
 
 }
 
@@ -196,6 +204,21 @@ textarea{
     border:none;
     border-radius: 5px;
     font-family: 'Rubik', sans-serif;
+}
+
+#social-media {
+    text-align: center;
+    padding: 20px;
+}
+#social-media a{
+    text-decoration: none;
+    padding: 10px;
+    font-size: 20px;
+    color:#f7ccb4;
+}
+#social-media a:hover{
+    background-color: #b2baa7;
+    color: #436053;
 }
 
 /* Footer Section Styling */

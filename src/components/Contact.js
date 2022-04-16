@@ -52,13 +52,18 @@ const Contact = () => {
                 <h3>Get in touch: </h3>
                 <form ref={form} onSubmit={handleSubmit}>
                     <label>Full Name:* </label>
-                        <input onChange={handleName} id="from_name" name="from_name" type="text" value={name} placeholder="Fullname..." required></input>        
+                        <input onChange={handleName} id="from_name" name="from_name" type="text" value={name} placeholder="Full Name..." required></input>        
                     <label>Email:* </label>
                         <input onChange={handleEmail} id="email" name="reply_to" type="email" value={email}placeholder="Email..." required ></input>
                     <label>Message: </label>
                         <textarea onChange={handleText} id="message" name="message" value={message}></textarea>
                     <input type="submit" value={submit}></input>
                 </form>
+            </div>
+            <div id="social-media">
+                <a href="https://www.linkedin.com/in/cordelia-toennies-johnstone-2a1148102">LinkedIn</a>
+                <a href="https://github.com/CordiiT14">Github</a>
+                <a href="https://www.instagram.com/cordii.t_creative/">Instagram</a>
             </div>
         </section>
     )
