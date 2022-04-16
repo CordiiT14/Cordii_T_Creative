@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.css": "/Cordii_T_Creative/static/css/main.9c4e5b85.css",
-    "main.js": "/Cordii_T_Creative/static/js/main.214602e9.js",
+    "main.css": "/Cordii_T_Creative/static/css/main.d5215058.css",
+    "main.js": "/Cordii_T_Creative/static/js/main.ec5a3514.js",
     "static/js/787.89063b23.chunk.js": "/Cordii_T_Creative/static/js/787.89063b23.chunk.js",
     "static/media/Headshot.png": "/Cordii_T_Creative/static/media/Headshot.2a8951e9f3031f0dd770.png",
     "static/media/project_holder.png": "/Cordii_T_Creative/static/media/project_holder.ae66559dbc9495d68b6e.png",
     "static/media/CCT_logo1.png": "/Cordii_T_Creative/static/media/CCT_logo1.eb2985c94ef49791d9a4.png",
+    "static/media/closemenu.png": "/Cordii_T_Creative/static/media/closemenu.e2b865bdfee6b3d1a9de.png",
+    "static/media/burgerclosed.png": "/Cordii_T_Creative/static/media/burgerclosed.8cf2758454cb43d710c4.png",
     "static/media/icon.png": "/Cordii_T_Creative/static/media/icon.7c6b355a0bb113efd89f.png",
     "index.html": "/Cordii_T_Creative/index.html",
-    "main.9c4e5b85.css.map": "/Cordii_T_Creative/static/css/main.9c4e5b85.css.map",
-    "main.214602e9.js.map": "/Cordii_T_Creative/static/js/main.214602e9.js.map",
+    "main.d5215058.css.map": "/Cordii_T_Creative/static/css/main.d5215058.css.map",
+    "main.ec5a3514.js.map": "/Cordii_T_Creative/static/js/main.ec5a3514.js.map",
     "787.89063b23.chunk.js.map": "/Cordii_T_Creative/static/js/787.89063b23.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9c4e5b85.css",
-    "static/js/main.214602e9.js"
+    "static/css/main.d5215058.css",
+    "static/js/main.ec5a3514.js"
   ]
 }
