@@ -69,7 +69,7 @@
 }
 
 #about-header > img {
-    max-width: 100%;
+    max-width: 80%;
     height: auto;
 }
 
@@ -112,7 +112,7 @@
 
 #project {
     text-align: center;
-    width: 400px;
+    width: 25%;
     padding: 5px;
     margin: 5px;
 }
