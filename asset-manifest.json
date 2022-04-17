@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Cordii_T_Creative/static/css/main.840cba03.css",
+    "main.css": "/Cordii_T_Creative/static/css/main.6268eab7.css",
     "main.js": "/Cordii_T_Creative/static/js/main.98bfdf2f.js",
     "static/js/787.89063b23.chunk.js": "/Cordii_T_Creative/static/js/787.89063b23.chunk.js",
     "static/media/Headshot.png": "/Cordii_T_Creative/static/media/Headshot.2a8951e9f3031f0dd770.png",
@@ -11,12 +11,12 @@
     "static/media/backtotop.png": "/Cordii_T_Creative/static/media/backtotop.112c827279de50244761.png",
     "static/media/icon.png": "/Cordii_T_Creative/static/media/icon.7c6b355a0bb113efd89f.png",
     "index.html": "/Cordii_T_Creative/index.html",
-    "main.840cba03.css.map": "/Cordii_T_Creative/static/css/main.840cba03.css.map",
+    "main.6268eab7.css.map": "/Cordii_T_Creative/static/css/main.6268eab7.css.map",
     "main.98bfdf2f.js.map": "/Cordii_T_Creative/static/js/main.98bfdf2f.js.map",
     "787.89063b23.chunk.js.map": "/Cordii_T_Creative/static/js/787.89063b23.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.840cba03.css",
+    "static/css/main.6268eab7.css",
     "static/js/main.98bfdf2f.js"
   ]
 }
