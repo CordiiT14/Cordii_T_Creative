@@ -1,4 +1,4 @@
-
+import key from '../key.js';
 import React, {useState, useRef} from 'react';
 import emailjs from '@emailjs/browser';
 
@@ -22,7 +22,7 @@ const Contact = () => {
     };
 
     const sendEmail = () => {
-        emailjs.sendForm('default_service', 'template_vmxya9h', form.current, 'cvJY15YykIx2Yox-i')
+        emailjs.sendForm('default_service', 'template_vmxya9h', form.current, key)
         .then((result) => {
             console.log('Success!', result.text);
         }, (error) => {
