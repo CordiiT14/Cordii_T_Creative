@@ -91,6 +91,17 @@
     max-height: 500px;
 }
 
+/* Tech Stack Styling */
+
+#tech-stack {
+    display: flex;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+}
+
 
 /* ProjectList styling */
 

@@ -9,6 +9,7 @@ import Footer from '../components/Footer';
 import burgermenu from '../images/burgerclosed.png'
 import closemenu from '../images/closemenu.png'
 import scrollup from '../images/backtotop.png';
+import TechStack from '../components/TechStack';
 
 
 
@@ -29,7 +30,7 @@ const CordiiTCreative = () => {
             <Link to="about-header" spy={true} smooth={true}>
             <img id="scrollUp" src={scrollup}></img>
             </Link>
-            
+            <TechStack />
             <ProjectList />
             <TestimonialList />
             <Contact/>
