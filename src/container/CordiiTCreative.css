@@ -95,6 +95,13 @@
 
 #tech-stack {
     display: flex;
+    justify-content: center;
+}
+
+#tech-stack img{
+    
+    width: 40px;
+    margin: 10px;
 }
 
 h2 {
