@@ -61,7 +61,7 @@
     justify-content: space-evenly;
     align-items: center;
     color: white;
-    height: 90vh;
+    height: 80vh;
     margin-left: 10%;
     margin-right: 10%;
     text-align: center;
@@ -70,6 +70,15 @@
 #about-header > img {
     max-width: 80%;
     height: auto;
+}
+
+#background-image {
+    /* background-image: url('../images/greenbackground.png'); */
+    background-image: url('../images/backgroundSwish.png');
+    background-position: 0;
+    height:150px;
+    width: 100vw;
+    background-repeat: no-repeat;
 }
 
 .about-section {

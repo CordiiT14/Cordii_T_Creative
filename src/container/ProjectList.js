@@ -1,5 +1,4 @@
 import React from 'react';
-import GitHubIcon from "../images/techStackIcons/GitHub.png"
 import pomodoro from '../images/projects/pomodorotimer.png'
 import triolingo from '../images/projects/Triolimgo.png'
 import weather from '../images/projects/weatherApp.png'
@@ -20,10 +19,10 @@ const ProjectList = () => {
     return(
         <section id="project-container">
             <div className='project'>
-                <a href="https://github.com/CordiiT14/Study_Zone_Pomodoro_Timer" target="_blank">
+                <a href="https://github.com/CordiiT14/Study_Zone_Pomodoro_Timer" target="_blank" rel="noreferrer">
                     <h3>Study Zone - Pomodoro Timer</h3>
                 </a>
-                <img className='project-img' src={pomodoro}></img>
+                <img className='project-img' src={pomodoro} alt="Pomodoro Timer screenshot"></img>
                 <p>React app to support dedicated study/work sessions. Contains a Pomodoro timer and will contain: Spotify playlist and task tracker.</p>
                 <section className='stack-logos'>
                     <img className='tech-stack' src={react} alt='React'></img>
@@ -31,10 +30,10 @@ const ProjectList = () => {
                 </section>
             </div>
             <div className='project'>
-                <a href="https://github.com/CLg003/TrioLingo" target="_blank">
+                <a href="https://github.com/CLg003/TrioLingo" target="_blank" rel="noreferrer">
                     <h3>TrioLingo</h3>
                 </a>
-                <img className='project-img' src={triolingo}></img>
+                <img className='project-img' src={triolingo} alt="TrioLingo Screenshot"></img>
                 <p>Prototype of a language app for children. Three lesson styles with quiz and a final memory game.</p>
                 <section className='stack-logos'>
                     <img className='tech-stack' src={react} alt='React'></img>
@@ -43,22 +42,22 @@ const ProjectList = () => {
                 </section>
             </div>
             <div className='project'>
-                <a href="https://github.com/CordiiT14/w7_hw_weather_app" target="_blank">
+                <a href="https://github.com/CordiiT14/w7_hw_weather_app" target="_blank" rel="noreferrer">
                     <h3>Weather App</h3>
                 </a>
-                <img className='project-img' src={weather}></img>
-                <p>Weather app, using <a href="https://github.com/robertoduessmann/weather-api" target="_blank">goweather.herokuapp</a> RESTful API. Shows current and three day forcast.</p>
+                <img className='project-img' src={weather} alt="Weather App screenshot"></img>
+                <p>Weather app, using <a href="https://github.com/robertoduessmann/weather-api" target="_blank" rel="noreferrer">goweather.herokuapp</a> RESTful API. Shows current and three day forcast.</p>
                 <section className='stack-logos'>
-                    <img className='tech-stack' src={react}></img>
+                    <img className='tech-stack' src={react} alt="react logo"></img>
                     <img className='tech-stack' src={js} alt='JavaScript'></img>
                 </section>
 
             </div>
             <div className='project'>
-                <a href="https://github.com/CordiiT14/python_project_bookings_manager" target="_blank">
+                <a href="https://github.com/CordiiT14/python_project_bookings_manager" target="_blank" rel="noreferrer">
                     <h3>Event Bookings Manager</h3>
                 </a>
-                <img className='project-img' src={events}></img>
+                <img className='project-img' src={events} alt="Event Bookings Screenshot"></img>
                 <p>Program to manage customers, and register customers for events. </p>
                 <section className='stack-logos'>
                     <img className='tech-stack' src={python} alt='Python'></img>
@@ -68,10 +67,10 @@ const ProjectList = () => {
 
             </div>
             <div className='project'>
-                <a href="https://github.com/CordiiT14/wk3_hw_Flask_rockpaperscissors" target="_blank">
+                <a href="https://github.com/CordiiT14/wk3_hw_Flask_rockpaperscissors" target="_blank" rel="noreferrer">
                     <h3>Rock-Paper-Scissors</h3>
                 </a>
-                <img className='project-img' src={rps}></img>
+                <img className='project-img' src={rps} alt="rock-paper-scissors screenshot"></img>
                 <p>Rock Paper Scissors game. Play with against a friend or against the computer.</p>
                 <section className='stack-logos'>
                     <img className='tech-stack' src={python} alt='Python'></img>
