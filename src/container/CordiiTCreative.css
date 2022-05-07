@@ -135,6 +135,10 @@ h2 {
     margin: 5px;
 }
 
+.project-img {
+    width: 300px;
+}
+
 #project a{
     color: #f7ccb4;
 }
@@ -146,6 +150,13 @@ h2 {
 #project p {
     padding: 5px;
 }
+
+.tech-stack{
+    height: 40px;
+    padding: 5px;
+}
+
+
 
 /* Testemonial Section */
 

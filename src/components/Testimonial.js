@@ -15,8 +15,9 @@ const Testimonial = () => {
         </div>
         <div className='testemonial'>
             <p>
-                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-                Tristique senectus et netus et malesuada fames ac turpis egestas. Ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget." 
+                "Working with Cordelia was a pleasure from start to finish. 
+                She was able to understand exactly what we needed, gave us great advice and ultimately she created the content we were looking for in a short period of time. 
+                She works in a professional and efficient manner and we would definitely reach out to her again if needs be! " 
             </p>
             <h3>Janessa Tönnies</h3>
             <p>CCVD Events (FAfW)</p>
