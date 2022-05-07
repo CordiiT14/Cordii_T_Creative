@@ -34,8 +34,7 @@
 
 .navigation {
     display: flex;
-    background-color: #436053;
-    opacity: 0.8;
+    background-color: rgba(67, 96, 83, 0.788);
     border-radius: 2px;
 }
 
@@ -92,7 +91,7 @@
 }
 
 /* Tech Stack Styling */
-
+/* 
 #tech-stack {
     display: flex;
     justify-content: center;
@@ -107,7 +106,7 @@
 h2 {
     text-align: center;
     color: white;
-}
+} */
 
 
 /* ProjectList styling */
@@ -116,7 +115,8 @@ h2 {
 #project-container {
     color: white;
     min-height: 500px;
-    padding: 5%;
+
+    padding: 5% 15%;
     text-align:center;
     display: flex;
     flex-wrap: wrap;
@@ -128,10 +128,15 @@ h2 {
     border-radius: 5px;
     width: 350px;
     padding: 10px;
-    margin: 10px;
+    margin: 20px;
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    justify-content: space-evenly;
+}
+
+.project > a{
+    color: #f7ccb4;
+    font-size: 20px;
 }
 
 .project-img {

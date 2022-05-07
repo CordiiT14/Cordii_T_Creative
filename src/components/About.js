@@ -1,6 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
-import logo from '../images/CCT_logo1.png';
+// import logo from '../images/CCT_logo1.png';
+import logo from '../images/cordiit-ducky-logo.png';
 import headshot from '../images/Headshot.png';
 
 

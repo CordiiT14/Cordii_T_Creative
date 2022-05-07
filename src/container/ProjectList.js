@@ -24,7 +24,7 @@ const ProjectList = () => {
                     <h3>Study Zone - Pomodoro Timer</h3>
                 </a>
                 <img className='project-img' src={pomodoro}></img>
-                <p>Study aid app with Pomodoro Timer</p>
+                <p>React app to support dedicated study/work sessions. Contains a Pomodoro timer and will contain: Spotify playlist and task tracker.</p>
                 <section className='stack-logos'>
                     <img className='tech-stack' src={react} alt='React'></img>
                     <img className='tech-stack' src={js} alt='JavaScript'></img>
@@ -35,7 +35,7 @@ const ProjectList = () => {
                     <h3>TrioLingo</h3>
                 </a>
                 <img className='project-img' src={triolingo}></img>
-                <p>A prototype of an educational language app for kids</p>
+                <p>Prototype of a language app for children. Three lesson styles with quiz and a final memory game.</p>
                 <section className='stack-logos'>
                     <img className='tech-stack' src={react} alt='React'></img>
                     <img className='tech-stack' src={js} alt='JavaScript'></img>
@@ -47,7 +47,7 @@ const ProjectList = () => {
                     <h3>Weather App</h3>
                 </a>
                 <img className='project-img' src={weather}></img>
-                <p>React Weather App using API for weather data</p>
+                <p>Weather app, using <a href="https://github.com/robertoduessmann/weather-api" target="_blank">goweather.herokuapp</a> RESTful API. Shows current and three day forcast.</p>
                 <section className='stack-logos'>
                     <img className='tech-stack' src={react}></img>
                     <img className='tech-stack' src={js} alt='JavaScript'></img>
@@ -59,7 +59,7 @@ const ProjectList = () => {
                     <h3>Event Bookings Manager</h3>
                 </a>
                 <img className='project-img' src={events}></img>
-                <p>Booking system to add customers to events</p>
+                <p>Program to manage customers, and register customers for events. </p>
                 <section className='stack-logos'>
                     <img className='tech-stack' src={python} alt='Python'></img>
                     <img className='tech-stack' src={flask} alt='Flask'></img>
@@ -72,7 +72,7 @@ const ProjectList = () => {
                     <h3>Rock-Paper-Scissors</h3>
                 </a>
                 <img className='project-img' src={rps}></img>
-                <p>Rock Paper Scissors game. Play with a friend or against computer</p>
+                <p>Rock Paper Scissors game. Play with against a friend or against the computer.</p>
                 <section className='stack-logos'>
                     <img className='tech-stack' src={python} alt='Python'></img>
                     <img className='tech-stack' src={flask} alt='Flask'></img>
