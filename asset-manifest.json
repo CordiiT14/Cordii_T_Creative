@@ -1,22 +1,32 @@
 {
   "files": {
-    "main.css": "/Cordii_T_Creative/static/css/main.6268eab7.css",
-    "main.js": "/Cordii_T_Creative/static/js/main.98bfdf2f.js",
+    "main.css": "/Cordii_T_Creative/static/css/main.c9ae11f0.css",
+    "main.js": "/Cordii_T_Creative/static/js/main.823f0bb5.js",
     "static/js/787.89063b23.chunk.js": "/Cordii_T_Creative/static/js/787.89063b23.chunk.js",
+    "static/media/pomodorotimer.png": "/Cordii_T_Creative/static/media/pomodorotimer.2dfe9889b8823312281d.png",
+    "static/media/python.png": "/Cordii_T_Creative/static/media/python.91072be85b01ef0961a8.png",
     "static/media/Headshot.png": "/Cordii_T_Creative/static/media/Headshot.2a8951e9f3031f0dd770.png",
-    "static/media/project_holder.png": "/Cordii_T_Creative/static/media/project_holder.ae66559dbc9495d68b6e.png",
-    "static/media/CCT_logo1.png": "/Cordii_T_Creative/static/media/CCT_logo1.eb2985c94ef49791d9a4.png",
+    "static/media/Triolimgo.png": "/Cordii_T_Creative/static/media/Triolimgo.c991251ae969209796c7.png",
+    "static/media/PostgrSQL.png": "/Cordii_T_Creative/static/media/PostgrSQL.f8aa80ee83791cb4e6cb.png",
+    "static/media/Flask.png": "/Cordii_T_Creative/static/media/Flask.1dfb0a77f9428d1882eb.png",
+    "static/media/rockpaperscissors1.png": "/Cordii_T_Creative/static/media/rockpaperscissors1.6327d3575d62948d1a5b.png",
+    "static/media/react.png": "/Cordii_T_Creative/static/media/react.5f4638ff215ca5faf43c.png",
+    "static/media/weatherApp.png": "/Cordii_T_Creative/static/media/weatherApp.62c8fe02c555c48332f9.png",
+    "static/media/eventsBooking.png": "/Cordii_T_Creative/static/media/eventsBooking.75f0837c3a97bed9827f.png",
     "static/media/closemenu.png": "/Cordii_T_Creative/static/media/closemenu.e2b865bdfee6b3d1a9de.png",
     "static/media/burgerclosed.png": "/Cordii_T_Creative/static/media/burgerclosed.8cf2758454cb43d710c4.png",
     "static/media/backtotop.png": "/Cordii_T_Creative/static/media/backtotop.112c827279de50244761.png",
+    "static/media/cordiit-ducky-logo.png": "/Cordii_T_Creative/static/media/cordiit-ducky-logo.502c0801e28078b5a7f6.png",
+    "static/media/backgroundSwish.png": "/Cordii_T_Creative/static/media/backgroundSwish.b053f633c4dce5d00356.png",
+    "static/media/MongoDB.png": "/Cordii_T_Creative/static/media/MongoDB.619341edb5c1ec5f940a.png",
     "static/media/icon.png": "/Cordii_T_Creative/static/media/icon.7c6b355a0bb113efd89f.png",
     "index.html": "/Cordii_T_Creative/index.html",
-    "main.6268eab7.css.map": "/Cordii_T_Creative/static/css/main.6268eab7.css.map",
-    "main.98bfdf2f.js.map": "/Cordii_T_Creative/static/js/main.98bfdf2f.js.map",
+    "main.c9ae11f0.css.map": "/Cordii_T_Creative/static/css/main.c9ae11f0.css.map",
+    "main.823f0bb5.js.map": "/Cordii_T_Creative/static/js/main.823f0bb5.js.map",
     "787.89063b23.chunk.js.map": "/Cordii_T_Creative/static/js/787.89063b23.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6268eab7.css",
-    "static/js/main.98bfdf2f.js"
+    "static/css/main.c9ae11f0.css",
+    "static/js/main.823f0bb5.js"
   ]
 }
