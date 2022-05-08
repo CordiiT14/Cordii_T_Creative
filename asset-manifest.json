@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Cordii_T_Creative/static/css/main.63f2f4f7.css",
-    "main.js": "/Cordii_T_Creative/static/js/main.823f0bb5.js",
+    "main.js": "/Cordii_T_Creative/static/js/main.c886935d.js",
     "static/js/787.89063b23.chunk.js": "/Cordii_T_Creative/static/js/787.89063b23.chunk.js",
     "static/media/pomodorotimer.png": "/Cordii_T_Creative/static/media/pomodorotimer.2dfe9889b8823312281d.png",
     "static/media/python.png": "/Cordii_T_Creative/static/media/python.91072be85b01ef0961a8.png",
@@ -22,11 +22,11 @@
     "static/media/icon.png": "/Cordii_T_Creative/static/media/icon.7c6b355a0bb113efd89f.png",
     "index.html": "/Cordii_T_Creative/index.html",
     "main.63f2f4f7.css.map": "/Cordii_T_Creative/static/css/main.63f2f4f7.css.map",
-    "main.823f0bb5.js.map": "/Cordii_T_Creative/static/js/main.823f0bb5.js.map",
+    "main.c886935d.js.map": "/Cordii_T_Creative/static/js/main.c886935d.js.map",
     "787.89063b23.chunk.js.map": "/Cordii_T_Creative/static/js/787.89063b23.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.63f2f4f7.css",
-    "static/js/main.823f0bb5.js"
+    "static/js/main.c886935d.js"
   ]
 }
