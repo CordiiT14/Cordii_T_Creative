@@ -46,7 +46,7 @@ const ProjectList = () => {
                     <h3>Weather App</h3>
                 </a>
                 <img className='project-img' src={weather} alt="Weather App screenshot"></img>
-                <p>Weather app, using <a href="https://github.com/robertoduessmann/weather-api" target="_blank" rel="noreferrer">goweather.herokuapp</a> RESTful API. Shows current and three day forcast.</p>
+                <p>Weather app, using <a href="https://github.com/robertoduessmann/weather-api" target="_blank" rel="noreferrer">goweather.herokuapp</a> RESTful API. Shows current and three day forecast.</p>
                 <section className='stack-logos'>
                     <img className='tech-stack' src={react} alt="react logo"></img>
                     <img className='tech-stack' src={js} alt='JavaScript'></img>
