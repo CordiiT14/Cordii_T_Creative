@@ -163,7 +163,11 @@ h2 {
     padding: 10px;
 }
 
+/* Illustrations */
 
+#illustrations > img {
+    width: 250px;
+}
 
 /* Testemonial Section */
 
