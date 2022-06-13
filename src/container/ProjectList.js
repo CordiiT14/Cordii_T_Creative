@@ -10,11 +10,14 @@ import js from '../images/techStackIcons/javascript.jpeg'
 import python from '../images/techStackIcons/python.png'
 import flask from '../images/techStackIcons/Flask.png'
 import postgrSQL from '../images/techStackIcons/PostgrSQL.png'
+import dart from '../images/techStackIcons/dart_logo.png';
+import flutter from '../images/techStackIcons/flutter_logo.png';
 import pomodorogif from '../images/project_gifs/pomodoro.gif'
 import triolingogif from '../images/project_gifs/Triolingo.gif';
 import weatherappgif from '../images/project_gifs/weatherappRezise.gif'
 import eventsgif from '../images/project_gifs/bookingmanager.gif';
 import rpsgif from '../images/project_gifs/rockpaperscissors.gif';
+import edlitcomp from '../images/project_gifs/homepage_locatiomView.gif';
 
 
 const ProjectList = () => {
@@ -24,11 +27,22 @@ const ProjectList = () => {
     return(
         <section id="project-container">
             <div className='project'>
+                <a href="https://github.com/CordiiT14/edinburgh_literary_companion" target="_blank" rel="noreferrer">
+                    <h3>Edinburgh Literary Companion</h3>
+                </a>
+                <img className='project-img' src={edlitcomp} alt="Mobile app screenshot"></img>
+                <p>Mobile app was designed as a companion for those who want to explore Edinburgh's famous attractions, landmarks and bookshops. The app also lists books which are based in Edinburgh.</p>
+                <section className='stack-logos'>
+                    <img className='tech-stack' src={dart} alt='Dart'></img>
+                    <img className='tech-stack' src={flutter} alt='Flutter'></img>
+                </section>
+            </div>
+            <div className='project'>
                 <a href="https://github.com/CordiiT14/Study_Zone_Pomodoro_Timer" target="_blank" rel="noreferrer">
                     <h3>Study Zone - Pomodoro Timer</h3>
                 </a>
                 <img className='project-img' src={pomodorogif} alt="Pomodoro Timer screenshot"></img>
-                <p>React app to support dedicated study/work sessions. Contains a Pomodoro timer and will contain: Spotify playlist and task tracker.</p>
+                <p>React app to support dedicated study/work sessions. Contains a Pomodoro timer and Spotify Playlist. Will contain: task tracker.</p>
                 <section className='stack-logos'>
                     <img className='tech-stack' src={react} alt='React'></img>
                     <img className='tech-stack' src={js} alt='JavaScript'></img>
