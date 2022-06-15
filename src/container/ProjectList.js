@@ -85,7 +85,7 @@ const ProjectList = () => {
                     <h3>Rock-Paper-Scissors</h3>
                 </a>
                 <img className='project-img' src={rpsgif} alt="rock-paper-scissors screenshot"></img>
-                <p>Rock Paper Scissors game. Play with against a friend or against the computer.</p>
+                <p>Rock Paper Scissors game. Play with a friend or against the computer.</p>
                 <section className='stack-logos'>
                     <img className='tech-stack' src={python} alt='Python'></img>
                     <img className='tech-stack' src={flask} alt='Flask'></img>
